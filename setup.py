@@ -8,7 +8,7 @@ setup(
         # List your package dependencies here
     ],
     author="Deva Dharshini",
-    author_email='dharshinideva231@gmail.com.com',  # Your email
+    author_email='xxx.com',  # Your email
     description=' a greeting message.',
     long_description=open('README.md').read(),  # Use README.md for long description
     long_description_content_type='text/markdown',
